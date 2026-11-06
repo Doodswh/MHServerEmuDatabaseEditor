@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sav
+item_templates.json
+item_templates.json.bad
+game_data_path.txt
